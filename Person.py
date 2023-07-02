@@ -3,5 +3,5 @@ class Person() :
     name = ""
     height = 0
 
-    def getName(self) :
+    def getAge(self) :
         return self.age
