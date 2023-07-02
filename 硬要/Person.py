@@ -5,6 +5,3 @@ class Person() :
 
     def getAge(self) :
         return self.age
-    
-    def getName(self) :
-        return self.name
